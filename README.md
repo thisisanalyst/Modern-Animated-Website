@@ -1,5 +1,4 @@
 # Modern-Animated-Website
-GSAP Based Modern Animated Website!
 
 This repository contains GSAP Based Modern Animated Website.
 
