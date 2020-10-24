@@ -1,6 +1,6 @@
 # Modern-Animated-Website
 
-This repository contains GSAP Based Modern Animated Website.
+This repository contains Modern Animated Website.
 
 Designed on HTML, CSS, JavaScript & GSAP.
 
